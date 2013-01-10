@@ -1,4 +1,4 @@
-﻿namespace Defensive.NET
+﻿namespace DefensiveDotNet
 {
     using System;
 

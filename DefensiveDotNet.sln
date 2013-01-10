@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defensive.NET", "Defensive.NET\Defensive.NET.csproj", "{CEFA0A03-6E87-48E8-A260-75FD8025AAC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefensiveDotNet", "DefensiveDotNet\DefensiveDotNet.csproj", "{CEFA0A03-6E87-48E8-A260-75FD8025AAC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{B13B1F1C-EB15-4635-B5B0-4FCC83E74812}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefensiveDotNet.UnitTests", "DefensiveDotNet.UnitTests\DefensiveDotNet.UnitTests.csproj", "{B13B1F1C-EB15-4635-B5B0-4FCC83E74812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

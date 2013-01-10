@@ -6,8 +6,8 @@
     <ProjectGuid>{B13B1F1C-EB15-4635-B5B0-4FCC83E74812}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnitTests</RootNamespace>
-    <AssemblyName>UnitTests</AssemblyName>
+    <RootNamespace>DefensiveDotNet.UnitTests</RootNamespace>
+    <AssemblyName>DefensiveDotNet.UnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -48,9 +48,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Defensive.NET\Defensive.NET.csproj">
+    <ProjectReference Include="..\DefensiveDotNet\DefensiveDotNet.csproj">
       <Project>{CEFA0A03-6E87-48E8-A260-75FD8025AAC3}</Project>
-      <Name>Defensive.NET</Name>
+      <Name>DefensiveDotNet</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

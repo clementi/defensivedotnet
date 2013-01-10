@@ -1,7 +1,7 @@
-﻿namespace UnitTests
+﻿namespace DefensiveDotNet.UnitTests
 {
     using System;
-    using Defensive.NET;
+    using DefensiveDotNet;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     [TestClass]
