@@ -62,7 +62,7 @@
         {
             int x = 3;
 
-            Defend.Against(() => x == 3, "parameterName");
+            Defend.Against(x == 3, "parameterName");
         }
 
         [TestMethod]
@@ -70,7 +70,7 @@
         {
             int x = 3;
 
-            Defend.Against(() => x < 3, "parameterName");
+            Defend.Against(x < 3, "parameterName");
         }
     }
 }
