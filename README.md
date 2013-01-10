@@ -1,4 +1,4 @@
-DefensiveDotNet
+Defensive.NET
 ===============
 
 Defensive Programming for .NET
@@ -15,7 +15,7 @@ public void SomeMethod(string parameter)
 }
 ```
 
-With DefensiveDotNet, you can do this instead:
+With Defensive.NET, you can do this instead:
 
 ```csharp
 public void SomeMethod(string parameter)
@@ -31,3 +31,5 @@ You can also defend against:
 * Null or empty string parameters
 * Null or whitespace string parameters
 * Any "bad" condition: `Defend.Against(() => IsBad(parameter), "parameter")`
+
+Defensive.NET is based on code by Loren Whitney.
