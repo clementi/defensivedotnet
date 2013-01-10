@@ -30,6 +30,6 @@ You can also defend against:
 
 * Null or empty string parameters
 * Null or whitespace string parameters
-* Any "bad" condition: `Defend.Against(() => IsBad(parameter), "parameter")`
+* Any "bad" condition: `Defend.Against(IsBad(parameter), "parameter")`
 
 Defensive.NET is based on code by Loren Whitney.
