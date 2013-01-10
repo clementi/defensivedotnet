@@ -1,5 +1,7 @@
-DefensiveDotNet: Defensive Programming for .NET
-===============================================
+DefensiveDotNet
+===============
+
+Defensive Programming for .NET
 
 Ever find yourself checking for null or otherwise invalid parameters?
 
