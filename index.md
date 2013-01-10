@@ -27,7 +27,7 @@ You can also defend against parameters that meet any arbitrary condition:
 
     public void SomeCoolMethodIWrote(int input)
     {
-        Defend.Against(() => input < 0, "input");
+        Defend.Against(input < 0, "input");
     }
 
 ## Get It!
