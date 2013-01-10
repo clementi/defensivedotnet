@@ -26,9 +26,9 @@
                 throw new ArgumentException(NullOrWhitespaceParameterExceptionMessage, parameterName);
         }
 
-        public static void Against(Func<bool> condition, string parameterName)
+        public static void Against(bool condition, string parameterName)
         {
-            if (condition())
+            if (condition)
                 throw new ArgumentException(UnacceptableParameterExceptionMessage, parameterName);
         }
     }
