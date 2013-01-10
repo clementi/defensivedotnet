@@ -23,3 +23,9 @@ public void SomeMethod(string parameter)
     // Do something interesting with the parameter
 }
 ```
+
+You can also defend against:
+
+* Null or empty string parameters
+* Null or whitespace string parameters
+* Any "bad" condition: `Defend.Against(() => IsBad(parameter), "parameter")`
