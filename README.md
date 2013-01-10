@@ -1,5 +1,2 @@
-DefensiveDotNet
-===============
-
-Defensive Programming for .NET
-------------------------------
+DefensiveDotNet: Defensive Programming for .NET
+===============================================
