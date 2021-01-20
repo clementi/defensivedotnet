@@ -1,7 +1,12 @@
-Defensive.NET
-===============
+# Defensive.NET
 
-Defensive Programming for .NET
+## End of life
+
+This repository has been archived and is now read-only.
+
+## Description
+
+Defensive.NET is Defensive Programming for .NET
 
 Ever find yourself checking for null or otherwise invalid parameters?
 
