@@ -2,6 +2,10 @@
 layout: main
 ---
 
+## Note
+
+This project has been archived at GitHub and is now read-only.
+
 ## Defend Yourself!
 
 Have you ever found yourself guarding against null or otherwise invalid parameters, like this:
